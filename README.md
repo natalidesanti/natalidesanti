@@ -17,9 +17,9 @@ I am Natalí de Santi, a physicist interested in cosmology, data science, machin
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<a href="https://cython.org/" target="_blank"> <img src="https://icon-icons.com/icon/file-type-cython/130653" alt="cython" width="40" height="40"/> </a> </p>
+<a href="https://cython.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cython_logo.svg/2560px-Cython_logo.svg.png" alt="cython" width="40" height="40"/> </a> </p>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.latex-project.org/" target="_blank"> <img src="https://seeklogo.com/vector-logo/82426/latex" alt="latex" width="40" height="40"/> </a> 
+<a href="https://www.latex-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png?20210414121601" alt="latex" width="40" height="40"/> </a> 
 <a href="https://fortran-lang.org/en/" target="_blank"> <img src="https://fortran-lang.org/en/_static/fortran-logo-256x256.png" alt="fortran" width="40" height="40"/> </a> 
 
 <h3 align="left">Machine Learning:</h3>
