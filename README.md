@@ -3,7 +3,7 @@
 I am Natalí de Santi, a physicist interested in cosmology, data science, machine learning and programming.
 
 - 🔭 Currently working on applying machine learning to solve cosmology problems
-- :pushpin: Guest researcher/research intern abroad at Flatiron Institute/Simons Foundation, NYC, NY, USA
+- :pushpin: São Paulo, Brazil
 - 🌱 PhD student in the University of São Paulo, São Paulo, Brazil
 - 📫 Some coordinates online: [my personal page](https://natalidesanti.github.io/) (check it out - ✨ some codes here have a post there ✨)
 - ⚡ Fact: wannabe cyclist in spare time
