@@ -26,7 +26,6 @@ I am Natalí de Santi, a physicist interested in cosmology, data science, machin
 <a href="https://pytorch-geometric.readthedocs.io/en/latest/" target="_blank"> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="gnn" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensor-flow" width="40" height="40"/> </a> 
-<a href="https://keras.io/" target="_blank"> <img src="https://img.stackshare.io/service/5601/keras.png" target="_blank"> <img src="https://gplearn.readthedocs.io/en/latest/_images/gplearn-wide.png" alt="gplearn" width="10" height="10"/> </a> 
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="skikit-learn" width="40" height="40"/> </a> 
 <a href="https://github.com/nickkunz/smogn" target="_blank"> <img src="https://raw.githubusercontent.com/nickkunz/smogn/master/media/images/smogn_banner.png" alt="smogn" width="40" height="40"/> </a> 
 
