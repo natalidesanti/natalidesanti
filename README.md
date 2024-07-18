@@ -4,7 +4,7 @@ I am Natalí de Santi, a physicist interested in cosmology, data science, machin
 
 - 🔭 Currently working on applying machine learning to solve cosmology problems
 - :pushpin: São Paulo, Brazil
-- 🌱 PhD student in the University of São Paulo, São Paulo, Brazil
+- 🌱 PhD in Physics by University of São Paulo, São Paulo, Brazil
 - 📫 Some coordinates online: [my personal page](https://natalidesanti.github.io/) (check it out - ✨ some codes here have a post there ✨)
 - ⚡ Fact: wannabe cyclist in spare time
 
